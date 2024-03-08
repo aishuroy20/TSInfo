@@ -1,3 +1,3 @@
 <script>
-alert("Hello Github!!");
+alert("Hello I am very Funny");
 </script>
